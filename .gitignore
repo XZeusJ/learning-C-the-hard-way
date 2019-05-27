@@ -1,1 +1,2 @@
 *.un~
+basic/!(*.c|makefile)
